@@ -1,1 +1,1 @@
-This is the readme of the test driven development
+This is the readme for the test driven developments notes
